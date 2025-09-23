@@ -1,0 +1,79 @@
+# Target labels
+ Main
+ opencv_videoio
+ Module
+# Source files and their labels
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/container_avi.private.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/legacy/constants_c.h
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/registry.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/utils.private.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/include/opencv2/videoio/videoio_c.h
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/precomp.hpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/videoio_registry.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/videoio_c.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/cap.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/cap_images.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/cap_mjpeg_encoder.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/cap_mjpeg_decoder.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/backend_plugin.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/backend_static.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/container_avi.cpp
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/videoio/src/cap_avfoundation_mac.mm
+ Main
+ opencv_videoio
+ Module
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/build/cvconfig.h
+/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/build/opencv2/opencv_modules.hpp

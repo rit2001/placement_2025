@@ -1,0 +1,7 @@
+#define CV_CPU_SIMD_FILENAME "/Users/ritwikbiswas/Desktop/placement_resources/placement_2026/placement_projects/rubiks_cube_solver/opencv-4.12.0/modules/dnn/src/layers/cpu_kernels/conv_winograd_f63.simd.hpp"
+#define CV_CPU_DISPATCH_MODE NEON
+#include "opencv2/core/private/cv_cpu_include_simd_declarations.hpp"
+
+#define CV_CPU_DISPATCH_MODES_ALL NEON, BASELINE
+
+#undef CV_CPU_SIMD_FILENAME
